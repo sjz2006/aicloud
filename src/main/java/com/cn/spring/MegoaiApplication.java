@@ -20,7 +20,7 @@ public class MegoaiApplication {
 	private static Logger logger = LoggerFactory.getLogger(MegoaiApplication.class);
 
 	public static void main(String[] args) {
-		logger.info("ccddccc");
+		logger.info("cc");
 		SpringApplication.run(MegoaiApplication.class, args);
 		logger.info("bbb");
 	}
